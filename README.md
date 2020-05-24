@@ -49,15 +49,19 @@ That said, most successful plays were around a mean of $4,101 with a standard de
 #### Chart 1: Outcomes Based on goals
 ![](Charts_PNG/Chart1_Goals_Chart.png)
 
-Graph utlizied in Findings 1
+Graph utilized in Findings 1
 
 #### Chart 2: Play Data Set Descriptive Statistics
+![](Charts_PNG/Chart2_Descriptive_Statistics.png)
 
-Graph utlizied in Findings 2
+Graph utilized in Findings 2
 
 #### Chart 3: Outcomes Base on Launch date  (Base on count of outcomes)
+![](Charts_PNG/Chart3_Count_of_outcomes_launch_date.png)
 
-Graph utlizied in Findings 3
+Graph utilized in Findings 3
 
 #### Chart 4: Outcomes Base on Launch date  (Base on sum of goal)
-Graph utlizied in Findings 4
+![](Charts_PNG/Chart4_Sum_of_goal_launch_date_chart.png)
+
+Graph utilized in Findings 4
