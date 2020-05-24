@@ -47,7 +47,7 @@ That said, most successful plays were around a mean of $4,101 with a standard de
 ### Challenge
 
 #### Chart 1: Outcomes Based on goals
-
+![](Charts_PNG/Chart1_Goals_Chart.png)
 Graph utlizied in Findings 1
 
 #### Chart 2: Play Data Set Descriptive Statistics
